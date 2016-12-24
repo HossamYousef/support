@@ -17,15 +17,10 @@
 The AVOXX packages utilizes [Composer](https://getcomposer.org) to manage their dependencies.
 So, before using any of the AVOXX packages, make sure you have Composer installed on your machine.
 
-	composer require avoxx/support
-	
+    composer require avoxx/support
+
 This will install the `avoxx/support` package and all required dependencies.
-
-##Includes
-
-* Collection (replacement for the traditional array data structure)
-* To be continued...
 
 ##Documentation
 
-* [Collection](https://avoxx.org/docs/v1/support/collection)
+* [Collection](https://avoxx.org/docs/v1/support/collection) (replacement for the traditional array data structure)
