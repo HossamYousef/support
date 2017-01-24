@@ -1,4 +1,4 @@
-<p align="center"><a href="https://avoxx.org"><img width="250"src="https://avoxx.org/assets/img/logos-components/support-components.svg"/></a></p>
+<p align="center"><a href="https://avoxx.org"><img width="250" src="https://avoxx.org/assets/img/logos-components/support-components.svg"/></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/avoxx/support"><img title="Build Status" src="https://travis-ci.org/avoxx/support.svg?branch=master"/></a>
@@ -23,4 +23,4 @@ This will install the `avoxx/support` package and all required dependencies.
 
 ##Documentation
 
-* [Collection](https://avoxx.org/docs/v1/support/collection) (replacement for the traditional array data structure)
+* [Collection](https://avoxx.org/docs/master/support/collection) (replacement for the traditional array data structure)
